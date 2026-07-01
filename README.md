@@ -74,26 +74,36 @@
 
 ---
 
-# Featured Projects
+## Featured Repositories
 
-### 🤖 Agentic Document Understanding Platform
-Production-ready AI platform using **LLMs, RAG, LangChain, MCP, and FastAPI** to extract, analyze, and reason over enterprise documents.
+| Project | Description |
+|---------|-------------|
+| **[Agentic Document Understanding Platform](https://github.com/Abhijnya002/agentic-document-understanding-platform)** | Multi-agent document analysis using LLMs, RAG, LangChain and FastAPI. |
+| **[Enterprise Decision Intelligence](https://github.com/Abhijnya002/Enterprise-Decision-Intelligence)** | AI-powered analytics and business intelligence platform. |
+| **[Vehicle Load Prediction](https://github.com/Abhijnya002/vehicle-load-prediction)** | ML regression on CAN telemetry for suspension load prediction. |
+| **[Driving Usage Classification](https://github.com/Abhijnya002/driving-usage-classification)** | PySpark pipeline for fleet telemetry classification. |
+| **[Fatigue Damage Estimation](https://github.com/Abhijnya002/fatigue-damage-estimation)** | Rainflow counting, Miner's Rule and Weibull analysis for durability engineering. |
+| **[RA Data Pipeline](https://github.com/Abhijnya002/RA--Data-pipeline)** | Python ETL pipeline for scalable data processing. |
 
-### 📈 Vehicle Load Prediction
-Machine learning pipeline using **Python, Scikit-learn, and time-series data** to predict vehicle corner loads and chassis vibration from synthetic CAN signals.
+---
 
-### 🚗 Driving Usage Classification
-Built a **PySpark** analytics pipeline to classify fleet telemetry into driving archetypes and generate durability-aware usage scores.
+## 💼 Open to Opportunities
 
-### ⚙️ Fatigue Damage Estimation
-Implemented **Rainflow Counting**, **Miner's Rule**, and **Weibull Analysis** to estimate suspension component fatigue life from vehicle telemetry.
+I'm actively seeking **Software Engineer**, **AI Engineer**, **Machine Learning Engineer**, **Backend Engineer**, and **Data Engineer** roles.
 
-### 🧠 Enterprise Decision Intelligence
-AI-powered decision support platform combining **machine learning, analytics, and business intelligence** for enterprise insights.
+**Areas I'm excited to work on**
+- 🤖 Agentic AI & LLM Applications
+- ⚙️ Backend & Distributed Systems
+- 📊 Data Platforms & Data Engineering
+- ☁️ Cloud Infrastructure & MLOps
+- 🚀 Scalable AI Products
 
-### 📊 RA Data Pipeline
-Designed scalable **Python ETL pipelines** for data ingestion, transformation, validation, and analytics-ready datasets.
+📧 **Email:** abhijnyakg@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/abhijnyakg  
+🌐 **Portfolio:** https://abhijnya002.github.io/
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+<p align="center">
+<i>"Always building, always learning, always shipping."</i>
 </p>
